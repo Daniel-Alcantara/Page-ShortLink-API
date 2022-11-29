@@ -19,7 +19,6 @@ $(document).ready(function () {
 function shortlink(valor) {
     var BaseUrl = "https://api.shrtco.de/v2/"
     var url = BaseUrl + "shorten?url=" + valor
-    console.log(url)
 
     $.ajax({
         url: url,
