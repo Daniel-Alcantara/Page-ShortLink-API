@@ -1,3 +1,5 @@
 Criação feita atráves de um molde. 
-API ainda não configurada.
+<br>
+API Funcionando corretamente.
+<br>
 Layout apenas para Desktop.
