@@ -1,5 +1,4 @@
-Criação feita atráves de um molde. 
 <br>
-API Funcionando corretamente.
+Consumo de uma API para realização de uma página dinâmica.
 <br>
 Layout apenas para Desktop.
